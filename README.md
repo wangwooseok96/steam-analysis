@@ -37,6 +37,8 @@ The goal is to understand:
 Shows how most Steam games are priced.
 - Paid games are concentrated mainly in the lower-to-mid price range
 
+![Price Distribution](price%20distribution.png)
+
 ### 2. Correlation Heatmap
 Examines relationships between:
 - Price
