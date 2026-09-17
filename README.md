@@ -1,7 +1,7 @@
 # 🎮 Steam Games Data Analysis
 
 ## 📌 Project Overview
-This project analyzes Steam game data to explore pricing patterns, player engagement, and genre performance.
+This project analyzes Steam game data to explore pricing patterns, player engagement, and genre-level ownership patterns.
 
 The goal is to understand:
 - How game prices are distributed
