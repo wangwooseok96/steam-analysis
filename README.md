@@ -78,9 +78,9 @@ Examines relationships between:
 ---
 
 ## 🚀 Key Insights
-- Steam pricing is heavily clustered in mid-range ($10–$50)
-- Popularity (owners) is not strongly correlated with price
-- Genre plays a larger role in player engagement than pricing
+- Paid games in the sample are concentrated primarily in the lower-to-mid price range
+- Game price shows only a weak relationship with estimated player ownership
+- Estimated ownership varies substantially across major game genres
 
 ---
 
