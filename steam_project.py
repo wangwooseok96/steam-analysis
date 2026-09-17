@@ -102,7 +102,7 @@ sns.boxplot(
     order=order
 )
 
-plt.title("Game Sales by Genre (Log Scale, Sorted by Median)")
+plt.title("Estimated Ownership by Genre (Log Scale, Sorted by Median)")
 plt.xlabel("Genre")
 plt.ylabel("Log(Number of Owners)")
 
