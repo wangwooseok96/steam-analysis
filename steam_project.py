@@ -45,6 +45,7 @@ plt.ylabel("Number of Games")
 plt.xlim(0, 60)
 plt.legend()
 plt.tight_layout()
+plt.savefig("price distribution.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 
