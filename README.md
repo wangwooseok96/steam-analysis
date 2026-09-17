@@ -5,7 +5,7 @@ This project analyzes Steam game data to explore pricing patterns, player engage
 
 The goal is to understand:
 - How game prices are distributed
-- Whether price relates to popularity or reviews
+- Whether price relates to estimated ownership or review score
 - How estimated player ownership varies across major genres
 
 ---
