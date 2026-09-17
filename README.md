@@ -12,7 +12,7 @@ The goal is to understand:
 
 ## 📊 Dataset
 - Source: Kaggle (Steam Games Dataset)
-- Sample size: 5,000 games (for efficiency)
+- This repository includes `games_sample.csv`, a sample of approximately 5,000 games used for this analysis
 - Features used:
   - Price
   - Estimated Owners
