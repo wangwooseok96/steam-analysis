@@ -42,7 +42,7 @@ Shows how most Steam games are priced.
 ### 2. Correlation Heatmap
 Examines relationships between:
 - Price
-- Player ownership
+- Estimated ownership
 - Review score
 
 👉 Result: Price shows only a weak relationship with estimated player ownership in this sample
