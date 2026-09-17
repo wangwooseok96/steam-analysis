@@ -110,4 +110,5 @@ plt.ylabel("Log(Number of Owners)")
 
 plt.xticks(rotation=30)
 plt.tight_layout()
+plt.savefig("genre boxplot.png", dpi=300, bbox_inches="tight")
 plt.show()
