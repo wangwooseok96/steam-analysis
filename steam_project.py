@@ -26,7 +26,7 @@ df = df.dropna(subset=['Price', 'Owners_clean', 'Positive', 'Negative', 'Genres'
 df['Total_reviews'] = df['Positive'] + df['Negative']
 df['Review_score'] = df['Positive'] / df['Total_reviews']
 
-# Remove outliers
+# Filter invalid records
 df = df[(df['Price'] >= 0) & (df['Owners_clean'] > 0) & (df['Total_reviews'] > 0)]
 
 print(df.head())
