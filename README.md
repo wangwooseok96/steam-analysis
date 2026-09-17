@@ -47,6 +47,8 @@ Examines relationships between:
 
 👉 Result: Price shows only a weak relationship with estimated player ownership in this sample
 
+![Correlation Heatmap](correlation%20heatmap.png)
+
 ### 3. Genre vs Player Base
 (Boxplot, log scale)
 - Estimated ownership differs noticeably across major genres
