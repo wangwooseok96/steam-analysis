@@ -36,7 +36,7 @@ The goal is to understand:
 ### 1. Price Distribution
 Shows how most Steam games are priced.
 - Majority cluster around $10–$50
-- Few extreme high-price outliers
+- Paid games are concentrated mainly in the lower-to-mid price range
 
 ### 2. Correlation Heatmap
 Examines relationships between:
@@ -48,8 +48,8 @@ Examines relationships between:
 
 ### 3. Genre vs Player Base
 (Boxplot, log scale)
-- Action and RPG tend to have higher player counts
-- Indie and Casual games show high variance
+- Estimated ownership differs noticeably across major genres
+- Some genres show substantial variation in ownership
 
 ---
 
