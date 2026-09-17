@@ -84,7 +84,7 @@ Examines relationships between:
 
 ## 🚀 Key Insights
 - Paid games in the sample are concentrated primarily in the lower-to-mid price range
-- Game price shows only a weak relationship with estimated player ownership
+- Game price shows only a weak relationship with estimated ownership
 - Estimated ownership varies substantially across major game genres
 
 ---
