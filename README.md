@@ -87,4 +87,4 @@ Examines relationships between:
 ## 👤 Author
 Yushuo Wang  
 Applied Mathematics @ UCSD  
-Incoming MS in Applied Analytics @ Columbia University
+MS in Applied Analytics @ Columbia University
