@@ -35,7 +35,7 @@ print(df.shape)
 plt.figure(figsize=(8,5))
 df_paid = df[df['Price'] > 0]
 sns.histplot(df_paid['Price'], bins=20, kde=True)
-mean_price = df_paid[df_paid['Price'] <= 60]['Price'].mean()
+mean_price = df_paid['Price'].mean()
 median_price = df_paid['Price'].median()
 plt.axvline(mean_price, linestyle='--', label='Mean')
 plt.axvline(median_price, linestyle='-', label='Median')
