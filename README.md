@@ -45,7 +45,7 @@ Examines relationships between:
 - Estimated ownership
 - Review score
 
-👉 Result: Price shows only a weak relationship with estimated player ownership in this sample
+👉 Result: Price shows only a weak relationship with estimated ownership in this sample
 
 ![Correlation Heatmap](correlation%20heatmap.png)
 
