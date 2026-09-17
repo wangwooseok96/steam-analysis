@@ -54,6 +54,8 @@ Examines relationships between:
 - Estimated ownership differs noticeably across major genres
 - Some genres show substantial variation in ownership
 
+![Genre Boxplot](genre%20boxplot.png)
+
 ---
 
 ## 🛠️ Tools Used
