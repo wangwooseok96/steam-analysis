@@ -35,7 +35,6 @@ The goal is to understand:
 
 ### 1. Price Distribution
 Shows how most Steam games are priced.
-- Majority cluster around $10–$50
 - Paid games are concentrated mainly in the lower-to-mid price range
 
 ### 2. Correlation Heatmap
