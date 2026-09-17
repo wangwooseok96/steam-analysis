@@ -23,7 +23,7 @@ The goal is to understand:
 
 ## ⚙️ Data Processing
 - Cleaned missing values
-- Converted ownership ranges to numeric values
+- Converted ownership estimates and review fields to numeric values
 - Created:
   - `Owners_clean`
   - `Review_score`
