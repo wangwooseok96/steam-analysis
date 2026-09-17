@@ -74,6 +74,7 @@ sns.heatmap(
 
 plt.title("Correlation Matrix (Steam Games)")
 plt.tight_layout()
+plt.savefig("correlation heatmap.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 
