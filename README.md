@@ -43,7 +43,7 @@ Examines relationships between:
 - Player ownership
 - Review score
 
-👉 Result: Weak correlations → pricing does not strongly determine success
+👉 Result: Price shows only a weak relationship with estimated player ownership in this sample
 
 ### 3. Genre vs Player Base
 (Boxplot, log scale)
