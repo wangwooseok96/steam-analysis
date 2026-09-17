@@ -69,6 +69,14 @@ Examines relationships between:
 
 ---
 
+## ▶️ How to Run
+
+1. Clone this repository
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the analysis: `python steam_project.py`
+
+---
+
 ## 🚀 Key Insights
 - Steam pricing is heavily clustered in mid-range ($10–$50)
 - Popularity (owners) is not strongly correlated with price
