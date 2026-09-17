@@ -5,7 +5,7 @@ import seaborn as sns
 
 # PRICE DISTRIBUTION
 # Read data
-df = pd.read_csv("games.csv")
+df = pd.read_csv("games_sample.csv")
 
 # View column names
 print("Columns:", df.columns.tolist())
